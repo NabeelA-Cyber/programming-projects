@@ -1,0 +1,12 @@
+ 1: Two men who work together in a factory were talking.
+ 2: "I know how to get some time off," said one.
+ 3: "How are you going to do that?" asked the other.
+ 4: "Watch," he said, and climbed a ladder to the ceiling.
+ 5: The foreman asked what he was doing up there,
+ 6: and the man replied. "I'm a lightbulb."
+ 7: "I think you need some time off," the foreman
+ 8: said, and the first man walked out of the 
+ 9: factory. After a moment, the second man followed 
+10: him. "Where do you think you're going?" 
+11: the foreman shouted.
+12: "I can't work in the dark," he said.
